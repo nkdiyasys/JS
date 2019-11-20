@@ -22,7 +22,7 @@ class JSTests: XCTestCase {
         let a = 10
         let b = 30
         let sum = a + b
-        XCTAssertTrue(sum == 50, "sum")
+        XCTAssertTrue(sum == 40, "sum")
     }
     func testExample() {
         // This is an example of a functional test case.
